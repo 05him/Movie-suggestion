@@ -23,7 +23,7 @@ export default function App() {
     {
       name: "Ice Age",
       rating: "7.5/10",
-      about:"Ice Age is a 2002 American computer-animated comedy film directed by Chris Wedge and co-directed by Carlos Saldanha from a story by Michael J. Wilson. Produced by Blue Sky Studios as its first feature film, it was released by 20th Century Fox on March 15, 2002".
+      about:"Ice Age is a 2002 American computer-animated comedy film directed by Chris Wedge and co-directed by Carlos Saldanha from a story by Michael J. Wilson. Produced by Blue Sky Studios as its first feature film, it was released by 20th Century Fox on March 15, 2002"
     },
     {
       name: "Madagascar",
