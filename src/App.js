@@ -115,6 +115,7 @@ export default function App() {
           <ul className="ul">
             <li className="list">{`Name : ${movie.name}`}</li>
             <li className="list">{`Rating : ${movie.rating}`}</li>
+            <li className="list">{`About : ${movie.about}`}</li>
           </ul>
         );
       })}
